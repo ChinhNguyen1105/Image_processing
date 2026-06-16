@@ -8,3 +8,5 @@ tiếp theo chạy lệnh: pip install -r requirements.txt (để tải các mod
 cuối cùng chạy lệnh: python ./BE/server.py (hoặc click đến file này mà chạy)
 
 caption: đấy chỉ có thể thôi, đọc cho kỹ hãng chạy.  
+
+chạy giao diện: cd FE -> npm run dev -> vào cổng 5173
